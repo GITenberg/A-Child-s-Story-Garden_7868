@@ -1,0 +1,29 @@
+_repo: A-Child-s-Story-Garden_7868
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Heber, Elizabeth
+    gutenberg_agent_id: '2566'
+    url: http://www.gutenberg.org/2009/agents/2566
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Siegfried, the King's son -- The song of the pine tree -- A Christmas
+  story -- The myth of Arachne -- The birds of Killingworth -- The myth of Pan --
+  The bell of Atri -- The anxious leaf -- Coming and going -- How the dimples came
+  -- The proud little apple blossom -- The brave knight -- King Robert of Sicily --
+  The Great Stone Face -- The first Christmas tree -- The story of Abraham -- The
+  story of Moses -- The story of David -- The story of Joseph -- The courtesy of the
+  Spartan boy -- Twenty-third Psalm.
+title: A Child's Story Garden
+url: http://www.gutenberg.org/ebooks/7868
