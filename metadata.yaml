@@ -1,11 +1,16 @@
 _repo: A-Child-s-Story-Garden_7868
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Heber, Elizabeth
     gutenberg_agent_id: '2566'
     url: http://www.gutenberg.org/2009/agents/2566
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7868#A-Child-s-Story-Garden
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
